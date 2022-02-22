@@ -16,7 +16,7 @@
   <img align="center" alt="Leo-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Leo-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Leo-Robot" height="30" width="40" src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework-white.png">
-  <img align="center" alt="Leo-Cypress" height="30" width="40" src="">  
+  <img align="center" alt="Leo-Cypress" height="30" width="40" src="<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg/>">  
   <img align="center" alt="Leo-Selenium" height="30" widht="40" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400">
   <img align="right" alt="Leo-QA" height="140" widht="140" src="https://media1.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif?cid=ecf05e47v24hub47k0t5ve096wl8guytoxeq8b5n6ac4zifb&rid=giphy.gif&ct=g">
 </div>
